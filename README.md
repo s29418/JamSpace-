@@ -21,10 +21,6 @@ ASP.NET Core • EF Core • Clean Architecture • React • MSSQL (Docker) •
 <br/>
 <br/>
 
-## 🌍 Available languages:
-- **English** (current)
-- [Polski](README_PL.md)
-
 ---
 
 ## Overview
